@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - abhineet-agarwal
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - abhineet-agarwal/NEGF-Nanoresistor
+  - abhineet-agarwal/double-barrier-tunneling
+  - abhineet-agarwal/iKshana
+  - abhineet-agarwal/IITB-RISC-22
+
