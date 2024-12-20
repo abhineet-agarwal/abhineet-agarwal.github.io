@@ -49,7 +49,14 @@
 
     <!-- Footer -->
     {% include footer.liquid %}
+       <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
 
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
     <!-- JavaScripts -->
     {% include scripts/jquery.liquid %}
     {% include scripts/bootstrap.liquid %}
