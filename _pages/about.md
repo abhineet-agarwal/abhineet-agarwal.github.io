@@ -23,6 +23,6 @@ I mostly aim to bridge the gap between the lab and the fab, working on research 
 
 Besides work, I am huge tennis and sports fan, and you'd most often find me in the gym lifting weights or on the field when not in the EE department or the hostel. I have also started long distance cycling off late, and am a frequent trekker (a monsoon trek's still pending though). I trained in Hindustani music as a kid and you would usually find me humming something or the other, much to the chagrin of my friends who are kinda sick of it. 
 
-I also avidly follow and read about politics, history and the technology scene here in India and the world. You can find my reading list here, and some of my writing on it here.
+I also avidly follow and read about politics, history and the technology scene here in India and the world. You can find my reading list here, and some of my writing here.
 
 
