@@ -21,7 +21,7 @@ I am currently working on the design of a quantum biomimetic electronic nose wit
 
 I mostly aim to bridge the gap between the lab and the fab, working on research that can help plug the pitfalls which prevent promising technologies from hitting the market. Theorists can imagine the future through their equations and models, but it takes engineers and entrepreneurs to bring it to the present. 
 
-Besides work, I am huge tennis and sports fan, and you'd most often find me in the gym lifting weights or on the field when not in the EE department or the hostel. I have also started long distance cycling off late, and am a frequent trekker (a monsoon trek's still pending though). I trained in Hindustani music as a kid and you would usually find me humming something or the other, much to the chagrin of my friends who are kinda sick of it. 
+Besides work, I am a huge tennis and sports fan, and you'd most often find me in the gym lifting weights or on the field when not in the EE department or the hostel. I have also started long distance cycling off late, and am a frequent trekker (a monsoon trek's still pending though). I trained in Hindustani music as a kid and you would usually find me humming something or the other, much to the chagrin of my friends who are kinda sick of it. 
 
 I also avidly follow and read about politics, history and the technology scene here in India and the world. You can find my reading list [here](https://www.goodreads.com/user/show/52986688-abhineet-agarwal), and some of my writing [here](https://abhineet-agarwal.github.io/blog/).
 
