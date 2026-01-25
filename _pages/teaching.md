@@ -9,23 +9,20 @@ nav_order: 5
 
 ## Teaching Assistantships
 
-**28nm CMOS Device & Process Tech Course** (SemiX IIT Bombay, Oct-Nov'25)
+**28nm CMOS Device & Process Tech Course** (SemiX IIT Bombay, Oct-Nov'25)<br>
 Instructor: Prof. Udayan Ganguly &emsp; <!-- [Course Website]() --> <!-- [Materials]() -->
 
-**EE207: Electronic Devices and Circuits** (Jan-Apr'25)
+**EE207: Electronic Devices and Circuits** (Jan-Apr'25)<br>
 Instructor: Prof. Swaroop Ganguly &emsp; <!-- [Course Website]() --> <!-- [Materials]() -->
-
-**English Learning Programme** (Student Mentorship Programme, May-Nov'23)
-<!-- [Programme Website]() -->
 
 ---
 
 ## Mentorship
 
-**Institute Technical Summer Projects** (Institute Technical Council, May-Aug'25)
+**Institute Technical Summer Projects** (Institute Technical Council, May-Aug'25)<br>
 Mentored: Micromouse (FPGA pathfinding), Tactile Glove (IMU gesture control)
 <!-- GitHub: [Micromouse]() [Tactile Glove]() -->
 
-**XLR8** (Institute Technical Council, Sep'24)
+**XLR8** (Institute Technical Council, Sep'24)<br>
 Mentored two freshmen teams on hardware projects
 <!-- [XLR8 Website]() -->
