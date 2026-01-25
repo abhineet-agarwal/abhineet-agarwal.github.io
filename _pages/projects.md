@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 3
-display_categories: 
+display_categories: [R&D, Course Projects, Freelance]
 horizontal: true
 social: true
 ---
