@@ -19,6 +19,8 @@ social: true # includes social icons at the bottom of the page
 
 <div class="post">
 
+<p>These essays and notes can also be found on <a href="https://substack.com/@abhineet810769">Substack</a>.</p>
+
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
@@ -30,6 +32,7 @@ social: true # includes social icons at the bottom of the page
   </div>
   {% endif %}
 
+<!--
        {% if site.display_tags or site.display_categories %}
   <div class="tag-category-list">
     <ul class="p-0 m-0">
@@ -55,6 +58,7 @@ social: true # includes social icons at the bottom of the page
     </ul>
   </div>
   {% endif %}
+-->
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
