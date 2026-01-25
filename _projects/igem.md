@@ -4,7 +4,7 @@ title: Team iGEM, IIT Bombay
 description: Carbon fixation modeling using E. huxleyi and Flux Balance Analysis
 img:
 importance: 5
-category: R&D
+category: Reading/Other
 ---
 
 **Advisor:** Prof. Kiran Kodanbagil | **Role:** Founding Member

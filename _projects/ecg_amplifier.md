@@ -4,7 +4,7 @@ title: Design of an ECG Amplifier
 description: Multi-stage bioinstrumentation amplifier with noise filtering
 img:
 importance: 10
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** EE230 - Analog Lab | **Instructor:** Prof. Anil Kottantharayil

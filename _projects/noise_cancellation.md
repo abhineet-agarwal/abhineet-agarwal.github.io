@@ -4,7 +4,7 @@ title: Noise Cancellation Headphones
 description: Analog active noise cancellation with lag compensator design
 img:
 importance: 5
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** EE324 - Control Systems Lab | **Instructor:** Prof. Debraj Chakraborty

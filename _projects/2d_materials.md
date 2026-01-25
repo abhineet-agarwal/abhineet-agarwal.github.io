@@ -4,7 +4,7 @@ title: Heterogeneous Integration of 2D and 3D Materials
 description: Modeling MoS₂/SiC devices using NEGF formalism
 img:
 importance: 2
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** EE784 - 2D Materials and Electronics | **Instructor:** Prof. Saurabh Lodha

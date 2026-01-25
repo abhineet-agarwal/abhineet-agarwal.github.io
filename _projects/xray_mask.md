@@ -4,7 +4,7 @@ title: X-ray Mask Fabrication and XRL
 description: High-precision tantalum masks for satellite imaging applications
 img:
 importance: 1
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** ME6110 - Nanomanufacturing Processes | **Instructor:** Prof. Rakesh Mote

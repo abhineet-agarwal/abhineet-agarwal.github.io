@@ -4,7 +4,7 @@ title: PDFETs based SNN for Biomolecule Detection
 description: Spiking neural network architecture using PDSOI MOSFETs for biosensing
 img:
 importance: 7
-category: R&D
+category: Reading/Other
 ---
 
 **Type:** Reading Project | **Self-Endeavour**

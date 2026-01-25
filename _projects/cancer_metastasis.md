@@ -4,7 +4,7 @@ title: Mathematical Modelling of Cancer Metastasis
 description: Spatiotemporal evolution models of cancer cell migration
 img:
 importance: 9
-category: Course Projects
+category: Reading/Other
 ---
 
 **Course:** BB626 - Mathematical Modelling of Biological Systems | **Instructor:** Prof. Deepak Agarwal

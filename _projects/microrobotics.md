@@ -4,7 +4,7 @@ title: Microrobotics for Medical Applications
 description: CMOS-compatible actuation mechanisms for medical microrobots
 img:
 importance: 8
-category: R&D
+category: Reading/Other
 ---
 
 **Guide:** Prof. Ashwin Seshia | **MEMS Group**

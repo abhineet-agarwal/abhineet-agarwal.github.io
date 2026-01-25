@@ -4,7 +4,7 @@ title: BTBT in FDX 22nm SOI MOSFET
 description: Band-to-band tunneling optimization in advanced SOI nodes
 img:
 importance: 5
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** EE724 - Nanoelectronics | **Instructor:** Prof. Udayan Ganguly

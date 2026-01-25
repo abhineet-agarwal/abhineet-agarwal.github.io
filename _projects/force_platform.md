@@ -4,7 +4,7 @@ title: Multi-Touch Force Platform
 description: Input device for patients with neurodegenerative diseases
 img:
 importance: 4
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** EE344 - Electronic Design Lab | **Instructor:** Prof. Siddharth Tallur

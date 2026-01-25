@@ -4,7 +4,7 @@ title: Electronic Properties of Bilayer Graphene
 description: Tight-binding analysis and band structure modeling
 img:
 importance: 6
-category: Course Projects
+category: Reading/Other
 ---
 
 **Course:** PH436 - Theoretical Condensed Matter Physics | **Instructor:** Prof. Hridis Kumar Pal

@@ -4,7 +4,7 @@ title: Dual-Junction LDD/HDD MOSFET Scaling
 description: TCAD-based transistor scaling from 1μm to 0.18μm
 img:
 importance: 3
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** EE620 - Physics of Transistors | **Instructor:** Prof. Souvik Mohapatra

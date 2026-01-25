@@ -4,7 +4,7 @@ title: 16-bit Pipelined IITB CPU
 description: Designing a Turing-complete RISC processor in VHDL
 img:
 importance: 4
-category: Course Projects
+category: Academic Projects
 ---
 
 **Course:** EE309 - Microprocessors | **Instructor:** Prof. Virendra Singh
