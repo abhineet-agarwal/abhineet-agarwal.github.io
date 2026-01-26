@@ -33,7 +33,7 @@ nav_order: 5
 
 1. *EE344: Electronic Design Lab*<br>
    Instructor: Prof. Siddharth Tallur<br>
-   Project: [Multi-Touch Force Platform](/projects/force_platform/)
+   Project: [Multi-Touch Force Platform](/projects/force_platform/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/edl-force-sensing-multitouch-pad)
 
 2. *EE350: Technical Communication*<br>
    <!-- Instructor:  -->
@@ -59,17 +59,17 @@ nav_order: 5
 ## Autumn'24
 
 1. *EE236: Electronic Devices Lab*<br>
-   <!-- Instructor:  -->
+   <!-- Instructor:  --> GitHub: [Assignments](https://github.com/abhineet-agarwal/Devices-Lab)
 
 2. *EE301: Electromagnetic Waves*<br>
    <!-- Instructor:  -->
 
 3. *EE324: Control Systems Lab*<br>
    Instructor: Prof. Debraj Chakraborty<br>
-   Project: [Noise Cancellation Headphones](/projects/noise_cancellation/)
+   Project: [Noise Cancellation Headphones](/projects/noise_cancellation/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/Controls-Lab)
 
 4. *EE340: Communications Lab*<br>
-   <!-- Instructor:  -->
+   <!-- Instructor:  --> GitHub: [Assignments](https://github.com/abhineet-agarwal/Comms-Lab)
 
 5. *EE341: Communication Systems - I*<br>
    <!-- Instructor:  -->
@@ -92,17 +92,17 @@ nav_order: 5
 
 1. *BB626: Modeling Biological Systems and Processes*<br>
    Instructor: Prof. Deepak Agarwal<br>
-   Project: [Mathematical Modelling of Cancer Metastasis](/projects/cancer_metastasis/)
+   Project: [Mathematical Modelling of Cancer Metastasis](/projects/cancer_metastasis/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/BB626-chaos)
 
 2. *DE250: Design Thinking for Innovation*<br>
-   <!-- Instructor:  -->
+   <!-- Instructor:  --> GitHub: [Project](https://github.com/abhineet-agarwal/UV-Air-Purifier)
 
 3. *EE207: Electronic Devices & Circuits*<br>
    <!-- Instructor:  -->
 
 4. *EE230: Analog Lab*<br>
    Instructor: Prof. Anil Kottantharayil<br>
-   Project: [Design of an ECG Amplifier](/projects/ecg_amplifier/)
+   Project: [Design of an ECG Amplifier](/projects/ecg_amplifier/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/EE230---Analog-Lab)
 
 5. *EE238: Power Engineering - II*<br>
    <!-- Instructor:  -->
@@ -115,14 +115,14 @@ nav_order: 5
 
 8. *EE309: Microprocessors*<br>
    Instructor: Prof. Virendra Singh <br>
-   Project: [16-bit Pipelined IITB CPU](/projects/iitb_cpu/)
+   Project: [16-bit Pipelined IITB CPU](/projects/iitb_cpu/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/IITB-RISC-22)
 
 9. *EE337: Microprocessors Laboratory*<br>
-   <!-- Instructor:  &emsp; GitHub: [Assignments]() -->
+   <!-- Instructor:  &emsp; --> GitHub: [Assignments](https://github.com/abhineet-agarwal/EE337-Microprocessors-Lab)
 
 10. *EE724: Nanoelectronics*<br>
     Instructor: Prof. Udayan Ganguly<br>
-    Project: [BTBT in FDX 22nm SOI MOSFET](/projects/btbt_soi/)
+    Project: [BTBT in FDX 22nm SOI MOSFET](/projects/btbt_soi/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/EE724---Nanoelectronics)
 
 ---
 
@@ -132,7 +132,7 @@ nav_order: 5
    <!-- Instructor:  -->
 
 2. *DS203: Programming for Data Science*<br>
-   <!-- Instructor:  &emsp; GitHub: [Assignments]() -->
+   <!-- Instructor:  &emsp; --> GitHub: [Assignments](https://github.com/abhineet-agarwal/DS203---Programming-for-Data-Science)
 
 3. *EC101: Economics*<br>
    <!-- Instructor:  -->
@@ -144,7 +144,7 @@ nav_order: 5
    <!-- Instructor:  -->
 
 6. *EE224: Digital Systems*<br>
-   <!-- Instructor:  &emsp; GitHub: [Assignments]() -->
+   <!-- Instructor:  &emsp; --> GitHub: [Project](https://github.com/abhineet-agarwal/EE224_project)
 
 7. *EE229: Signal Processing – I*<br>
    <!-- Instructor:  -->
@@ -209,4 +209,4 @@ nav_order: 5
    <!-- Instructor:  -->
 
 8. *MS101: Makerspace*<br>
-   <!-- Instructor:  -->
+   <!-- Instructor:  --> GitHub: [Project](https://github.com/abhineet-agarwal/MS101)
