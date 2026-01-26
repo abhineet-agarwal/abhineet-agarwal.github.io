@@ -13,7 +13,7 @@ Find me on [Goodreads](https://www.goodreads.com/user/show/52986688-abhineet-aga
 
 ## Recent Recommendations
 
-<div id="recommendations"><p>Loading recommendations...</p></div>
+<div id="recommendations"></div>
 
 <script>
 fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vSTkk3ZBDSXwXw7KC23PyHz3xRcvi1DkD8uUBRmctLOEVo-_DvYbgjaTBdyf7RL4DAey4lymPD4wEDS/pub?output=csv')
@@ -22,7 +22,7 @@ fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vSTkk3ZBDSXwXw7KC23PyHz3x
     const rows = csv.split('\n').slice(1).filter(r => r.trim());
     const container = document.getElementById('recommendations');
     if (rows.length === 0) {
-      container.innerHTML = '<p>No recommendations yet. Be the first!</p>';
+      container.innerHTML = '';
       return;
     }
     const latest = rows.slice(-5).reverse();
@@ -36,7 +36,7 @@ fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vSTkk3ZBDSXwXw7KC23PyHz3x
     container.innerHTML = html;
   })
   .catch(() => {
-    document.getElementById('recommendations').innerHTML = '<p>Could not load recommendations.</p>';
+    document.getElementById('recommendations').innerHTML = '';
   });
 </script>
 
