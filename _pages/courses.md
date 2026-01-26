@@ -33,7 +33,7 @@ nav_order: 5
 
 1. *EE344: Electronic Design Lab*<br>
    Instructor: Prof. Siddharth Tallur<br>
-   Project: [Multi-Touch Force Platform](/projects/force_platform/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/edl-force-sensing-multitouch-pad)
+   Project: [Multi-Touch Force Platform](/projects/force_platform/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/EE344-Force-Sensing-Multitouch-Pad)
 
 2. *EE350: Technical Communication*<br>
    <!-- Instructor:  -->
