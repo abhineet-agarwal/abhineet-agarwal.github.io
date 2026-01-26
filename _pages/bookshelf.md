@@ -15,7 +15,8 @@ Books that have shaped how I think and I would recommend to anyone:
 - [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) by Siddhartha Mukherjee
 - [Einstein: His Life and Universe](https://www.goodreads.com/book/show/10884.Einstein) by Walter Isaacson
 - [Chip War](https://www.goodreads.com/book/show/60321447-chip-war) by Chris Miller
-- [Made in America]()
+- [Made in America](https://www.goodreads.com/book/show/10631.Sam_Walton_Made_in_America) by Sam Walton
+- [A Shot at History](https://www.goodreads.com/book/show/12794137-a-shot-at-history) by Abhinav Bindra
 
 
 Find me on [Goodreads](https://www.goodreads.com/user/show/52986688-abhineet-agarwal).
