@@ -11,11 +11,15 @@ category: Academic Projects
 
 **Duration:** Oct - Nov 2025
 
-- Fabricating high-precision tantalum X-ray masks for satellite imaging applications in collaboration with ISRO
+- Fabricated high-precision tantalum X-ray masks for satellite imaging applications in collaboration with ISRO
 - Evaluated laser micromachining, EDM, and etching techniques to achieve sub-10 μm pattern accuracy
-- Concurrently exploring commercialization potential of X-ray lithography for CMOS fabrication
+- Concurrently explored commercialization potential of X-ray lithography for CMOS fabrication
 
-<div class="links">
-  <a href="https://github.com/abhineet-agarwal/ME6110-XRL-Mask-Fabrication/blob/master/ME6110-Abhineet/ME6110_report.pdf" class="btn btn-sm z-depth-0" role="button">Report</a>
-  <a href="https://github.com/abhineet-agarwal/ME6110-XRL-Mask-Fabrication/blob/master/ME6110-Abhineet/slides_ME6110.pdf" class="btn btn-sm z-depth-0" role="button">Presentation</a>
-</div>
+<object data="{{ '/assets/pdf/ME6110_report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px">
+  <p>PDF cannot be displayed. <a href="{{ '/assets/pdf/ME6110_report.pdf' | relative_url }}">Download PDF</a></p>
+</object>
+
+<object data="{{ '/assets/pdf/ME6110_presentation.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px">
+  <p>PDF cannot be displayed. <a href="{{ '/assets/pdf/ME6110_presentation.pdf' | relative_url }}">Download PDF</a></p>
+</object>
+
