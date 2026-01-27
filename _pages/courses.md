@@ -10,13 +10,13 @@ nav_order: 5
 ## Autumn'25
 
 1. *EE669: VLSI Technology*<br>
-   <!-- Instructor:  -->
+   <!-- Instructor:  --> GitHub: [Assignments](https://github.com/abhineet-agarwal/EE669-VLSI-Technology)
 
 2. *EE671: VLSI Design*<br>
    Instructor: Prof. Laxmeesha Somappa<br> Project: [Standard Cell Library](/projects/ee671_stdcell/) | [Goertzel ASIC](/projects/ee671_goertzel/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/EE671-VLSI-Design-Assignments) [Project 1](https://github.com/abhineet-agarwal/EE671-Standard-Cell-Library) [Project 2](https://github.com/abhineet-agarwal/EE671-Goertzel-ASIC)
 
 3. *EE746: Neuromorphic Engineering*<br>
-   Instructor: Prof. Veeresh Deshpande<br> Project: [Neuromorphic Engineering Projects](/projects/ee746_neuromorphic/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering)
+   Instructor: Prof. Veeresh Deshpande<br> Project: [Neuromorphic Engineering](/projects/ee746_neuromorphic/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering)
 
 4. *ME6110: Nanomanufacturing Processes*<br>
    Instructor: Prof. Rakesh Mote<br> Project: [X-ray Mask Fabrication](/projects/xray_mask/)
