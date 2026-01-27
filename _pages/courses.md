@@ -16,7 +16,7 @@ nav_order: 5
    <!-- Instructor:  &emsp; GitHub: [Assignments]() [Project]() -->
 
 3. *EE746: Neuromorphic Engineering*<br>
-   <!-- Instructor:  &emsp; GitHub: [Assignments]() [Project]() -->
+   Instructor: Prof. Veeresh Deshpande<br> Project: [Neuromorphic Engineering Projects](/projects/ee746_neuromorphic/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering)
 
 4. *ME6110: Nanomanufacturing Processes*<br>
    Instructor: Prof. Rakesh Mote<br> Project: [X-ray Mask Fabrication](/projects/xray_mask/)
