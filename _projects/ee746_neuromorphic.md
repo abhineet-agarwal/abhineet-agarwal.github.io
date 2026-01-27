@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neuromorphic Engineering Projects
+title: Neuromorphic Engineering
 description: Exploring how the brain computes — biologically plausible learning rules and SNNs on hardware
 img: assets/img/ee746_collage.png
 importance: 2

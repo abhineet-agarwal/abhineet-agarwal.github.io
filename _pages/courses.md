@@ -13,7 +13,7 @@ nav_order: 5
    <!-- Instructor:  -->
 
 2. *EE671: VLSI Design*<br>
-   <!-- Instructor:  &emsp; GitHub: [Assignments]() [Project]() -->
+   Instructor: Prof. Laxmeesha Somappa<br> Project: [Standard Cell Library](/projects/ee671_stdcell/) | [Goertzel ASIC](/projects/ee671_goertzel/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/EE671-VLSI-Design-Assignments) [Project 1](https://github.com/abhineet-agarwal/EE671-Standard-Cell-Library) [Project 2](https://github.com/abhineet-agarwal/EE671-Goertzel-ASIC)
 
 3. *EE746: Neuromorphic Engineering*<br>
    Instructor: Prof. Veeresh Deshpande<br> Project: [Neuromorphic Engineering Projects](/projects/ee746_neuromorphic/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering)
