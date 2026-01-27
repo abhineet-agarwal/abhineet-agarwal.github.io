@@ -14,3 +14,5 @@ category: Academic Projects
 - Fabricating high-precision tantalum X-ray masks for satellite imaging applications in collaboration with ISRO
 - Evaluated laser micromachining, EDM, and etching techniques to achieve sub-10 μm pattern accuracy
 - Concurrently exploring commercialization potential of X-ray lithography for CMOS fabrication
+
+[Report](https://github.com/abhineet-agarwal/ME6110-XRL-Mask-Fabrication/blob/master/ME6110-Abhineet/ME6110_report.pdf) | [Presentation](https://github.com/abhineet-agarwal/ME6110-XRL-Mask-Fabrication/blob/master/ME6110-Abhineet/slides_ME6110.pdf)

@@ -19,7 +19,7 @@ nav_order: 5
    Instructor: Prof. Veeresh Deshpande<br> Project: [Neuromorphic Engineering](/projects/ee746_neuromorphic/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering)
 
 4. *ME6110: Nanomanufacturing Processes*<br>
-   Instructor: Prof. Rakesh Mote<br> Project: [X-ray Mask Fabrication](/projects/xray_mask/)
+   Instructor: Prof. Rakesh Mote<br> Project: [X-ray Mask Fabrication](/projects/xray_mask/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/ME6110-XRL-Mask-Fabrication)
 
 5. *ENT614: Business to Business (B2B) Sales and Marketing*<br>
    <!-- Instructor:  -->
