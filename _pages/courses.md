@@ -27,6 +27,10 @@ nav_order: 5
 6. *HS499: Things that Remain: Understanding the Past through Objects*<br>
    <!-- Instructor:  -->
 
+7. *EE491: BTP-1*<br>
+Guide: Prof. Veeresh Deshpande
+Project: [Fabrication of WOx/HfO2 bilayer RRAM devices](/projects/reram.md/)
+
 ---
 
 ## Spring'25
@@ -54,22 +58,25 @@ nav_order: 5
 7. *PH410: Statistical Physics*<br>
    <!-- Instructor:  -->
 
+8. *EE692: R&D Project*<br>
+Guide: Prof. Ashwin Seshia
+Project: [Microrobotics for Medical Applications](/projects/microrobotics.md/)
 ---
 
 ## Autumn'24
 
 1. *EE236: Electronic Devices Lab*<br>
-   <!-- Instructor:  --> GitHub: [Assignments](https://github.com/abhineet-agarwal/Devices-Lab)
+   <!-- Instructor:  --> GitHub: [Labs](https://github.com/abhineet-agarwal/Devices-Lab)
 
 2. *EE301: Electromagnetic Waves*<br>
    <!-- Instructor:  -->
 
 3. *EE324: Control Systems Lab*<br>
    Instructor: Prof. Debraj Chakraborty<br>
-   Project: [Noise Cancellation Headphones](/projects/noise_cancellation/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/Controls-Lab)
+   Project: [Noise Cancellation Headphones](/projects/noise_cancellation/) &emsp; GitHub: [Labs](https://github.com/abhineet-agarwal/Controls-Lab)
 
 4. *EE340: Communications Lab*<br>
-   <!-- Instructor:  --> GitHub: [Assignments](https://github.com/abhineet-agarwal/Comms-Lab)
+   <!-- Instructor:  --> GitHub: [Labs](https://github.com/abhineet-agarwal/Comms-Lab)
 
 5. *EE341: Communication Systems - I*<br>
    <!-- Instructor:  -->
@@ -85,6 +92,10 @@ nav_order: 5
 
 9. *PH436: Introduction to Condensed Matter Physics*<br>
    Instructor: Prof. Hridis Kumar Pal<br> Project: [Electronic Properties of Bilayer Graphene](/projects/bilayer_graphene/)
+
+10. *EE691: R&D Project*<br>
+Guide: Prof. Swaroop Ganguly
+Project: [Microrobotics for Medical Applications](/projects/quantum_nose.md/)
 
 ---
 
@@ -102,7 +113,7 @@ nav_order: 5
 
 4. *EE230: Analog Lab*<br>
    Instructor: Prof. Anil Kottantharayil<br>
-   Project: [Design of an ECG Amplifier](/projects/ecg_amplifier/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/EE230---Analog-Lab)
+   Project: [Design of an ECG Amplifier](/projects/ecg_amplifier/) &emsp; GitHub: [Labs](https://github.com/abhineet-agarwal/EE230---Analog-Lab)
 
 5. *EE238: Power Engineering - II*<br>
    <!-- Instructor:  -->
@@ -118,7 +129,7 @@ nav_order: 5
    Project: [16-bit Pipelined IITB CPU](/projects/iitb_cpu/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/IITB-RISC-22)
 
 9. *EE337: Microprocessors Laboratory*<br>
-   <!-- Instructor:  &emsp; --> GitHub: [Assignments](https://github.com/abhineet-agarwal/EE337-Microprocessors-Lab)
+   <!-- Instructor:  &emsp; --> GitHub: [Labs](https://github.com/abhineet-agarwal/EE337-Microprocessors-Lab)
 
 10. *EE724: Nanoelectronics*<br>
     Instructor: Prof. Udayan Ganguly<br>

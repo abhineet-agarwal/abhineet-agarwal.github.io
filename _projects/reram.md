@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Fabrication of ReRAM Devices
+title: Fabrication of WOx/HfO2 Bilayer RRAM Devices
 description: B.Tech Project on resistive memory device fabrication and characterization
 img:
 importance: 3
 category: R&D
 ---
 
-**Guide:** Prof. Veeresh Deshpande | **Collaborators:** Yale University, Applied Materials
+**Guide:** Prof. Veeresh Deshpande
 
 **Duration:** Aug 2025 - Present
 
