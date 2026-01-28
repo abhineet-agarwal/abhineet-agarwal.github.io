@@ -10,7 +10,7 @@ nav_order: 5
 ## Autumn'25
 
 1. *EE669: VLSI Technology*<br>
-   <!-- Instructor:  --> GitHub: [Assignments](https://github.com/abhineet-agarwal/EE669-VLSI-Technology)
+   Instructor: Prof. Anil Kottantharayil  --> GitHub: [Assignments](https://github.com/abhineet-agarwal/EE669-VLSI-Technology)
 
 2. *EE671: VLSI Design*<br>
    Instructor: Prof. Laxmeesha Somappa<br> Project: [Standard Cell Library](/projects/ee671_stdcell/) | [Goertzel ASIC](/projects/ee671_goertzel/) &emsp; GitHub: [Assignments](https://github.com/abhineet-agarwal/EE671-VLSI-Design-Assignments) [Project 1](https://github.com/abhineet-agarwal/EE671-Standard-Cell-Library) [Project 2](https://github.com/abhineet-agarwal/EE671-Goertzel-ASIC)
@@ -22,7 +22,7 @@ nav_order: 5
    Instructor: Prof. Rakesh Mote<br> Project: [X-ray Mask Fabrication](/projects/xray_mask/) &emsp; GitHub: [Project](https://github.com/abhineet-agarwal/ME6110-XRL-Mask-Fabrication)
 
 5. *ENT614: Business to Business (B2B) Sales and Marketing*<br>
-   <!-- Instructor:  -->
+   Instructor:  Prof. Rozwan Koita
 
 6. *HS499: Things that Remain: Understanding the Past through Objects*<br>
    <!-- Instructor:  -->
@@ -50,7 +50,7 @@ Project: [Fabrication of WOx/HfO2 bilayer RRAM devices](/projects/reram.md/)
    <!-- Instructor:  &emsp; GitHub: [Assignments]() [Project]() -->
 
 5. *EE755: Quantum Transport in Nanoscale Devices*<br>
-   <!-- Instructor:  &emsp; GitHub: [Assignments]() -->
+  Instructor: Prof. Bhaskaran Muralidharan  <!-- &emsp; GitHub: [Assignments]() -->
 
 6. *EE784: 2D Materials and Devices*<br>
    Instructor: Prof. Saurabh Lodha<br> Project: [Heterogeneous Integration of 2D and 3D Materials](/projects/2d_materials/)
@@ -72,7 +72,6 @@ Project: [Microrobotics for Medical Applications](/projects/microrobotics.md/)
    <!-- Instructor:  -->
 
 3. *EE324: Control Systems Lab*<br>
-   Instructor: Prof. Debraj Chakraborty<br>
    Project: [Noise Cancellation Headphones](/projects/noise_cancellation/) &emsp; GitHub: [Labs](https://github.com/abhineet-agarwal/Controls-Lab)
 
 4. *EE340: Communications Lab*<br>
@@ -112,17 +111,14 @@ Project: [Microrobotics for Medical Applications](/projects/quantum_nose.md/)
    <!-- Instructor:  -->
 
 4. *EE230: Analog Lab*<br>
-   Instructor: Prof. Anil Kottantharayil<br>
    Project: [Design of an ECG Amplifier](/projects/ecg_amplifier/) &emsp; GitHub: [Labs](https://github.com/abhineet-agarwal/EE230---Analog-Lab)
 
 5. *EE238: Power Engineering - II*<br>
-   <!-- Instructor:  -->
 
 6. *EE240: Power Engineering Lab*<br>
    <!-- Instructor:  -->
 
 7. *EE302: Control Systems*<br>
-   <!-- Instructor:  -->
 
 8. *EE309: Microprocessors*<br>
    Instructor: Prof. Virendra Singh <br>
@@ -140,7 +136,7 @@ Project: [Microrobotics for Medical Applications](/projects/quantum_nose.md/)
 ## Autumn'23
 
 1. *BB603: Physiology for Engineers*<br>
-   <!-- Instructor:  -->
+   Instructor: Prof. Nivethida T.
 
 2. *DS203: Programming for Data Science*<br>
    <!-- Instructor:  &emsp; --> GitHub: [Assignments](https://github.com/abhineet-agarwal/DS203---Programming-for-Data-Science)
@@ -149,19 +145,15 @@ Project: [Microrobotics for Medical Applications](/projects/quantum_nose.md/)
    <!-- Instructor:  -->
 
 4. *EE204: Analog Circuits*<br>
-   <!-- Instructor:  -->
 
 5. *EE214: Digital Circuits Lab*<br>
    <!-- Instructor:  -->
 
-6. *EE224: Digital Systems*<br>
-   <!-- Instructor:  &emsp; --> GitHub: [Project](https://github.com/abhineet-agarwal/EE224_project)
+6. *EE224: Digital Systems*<br> [Project](https://github.com/abhineet-agarwal/EE224_project)
 
 7. *EE229: Signal Processing – I*<br>
-   <!-- Instructor:  -->
 
 8. *EE325: Probability and Random Processes*<br>
-   <!-- Instructor:  -->
 
 ---
 
