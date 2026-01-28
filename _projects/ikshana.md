@@ -68,7 +68,7 @@ The Android app was the brain of the operation. It handled three critical tasks:
 
 <div class="row justify-content-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ikshana_software_flow.png" title="Software Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/how-it-works-sw-2.png" title="Software Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -79,7 +79,7 @@ We preprocessed the entire IIT Bombay campus map, extracting intersection coordi
 
 <div class="row justify-content-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/how-it-works-sw-2.png" title="Software Architecture (Part 2)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ikshana_software_flow.png" title="Software Architecture (Part 2)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
