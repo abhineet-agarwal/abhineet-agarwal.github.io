@@ -2,7 +2,7 @@
 layout: page
 title: iKshana
 description: A complete navigational solution for the visually impaired
-img: assets/img/ikshana_design_diagram.png
+img: assets/img/ix-final.png
 importance: 6
 category: R&D
 ---
@@ -72,10 +72,19 @@ The Android app was the brain of the operation. It handled three critical tasks:
     </div>
 </div>
 <div class="caption">
-    The software pipeline: from OpenStreetMap data extraction to real-time navigation feedback through vibrations.
+    Software pipeline (part 1): from OpenStreetMap data extraction to graph construction and intersection mapping.
 </div>
 
 We preprocessed the entire IIT Bombay campus map, extracting intersection coordinates and path data into JSON format that the app could quickly query. When the user approached an intersection, the app calculated the required turn direction and sent commands to the appropriate foot module.
+
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/how-it-works-sw-2.png" title="Software Architecture (Part 2)" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Software pipeline (part 2): from real-time location updates to vibration commands sent to each foot module.
+</div>
 
 <div class="row justify-content-center">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -84,6 +93,19 @@ We preprocessed the entire IIT Bombay campus map, extracting intersection coordi
 </div>
 <div class="caption">
     The complete software architecture showing how location data, map processing, and ESP-32 communication work together.
+</div>
+
+## How It Works for the User
+
+From the user's perspective, iKshana feels like a silent guide always walking with you. You open the app, select your destination on the campus map, and start walking as usual. At each turn, the corresponding foot vibrates three times—left foot for a left turn, right foot for a right turn, both feet together when you should keep going straight. When an unexpected obstacle appears within 30cm, the system warns you with a sharper vibration on the side of the obstacle.
+
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/how-it-works.png" title="How It Works for the User" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    End-to-end experience from the user's point of view: choose a destination, follow the vibrations, and let the shoes handle both turns and obstacles.
 </div>
 
 ## Building It
@@ -102,6 +124,15 @@ We learned everything on the fly. Soldering irons burned fingers. ESP32 WiFi con
 But slowly, it came together. The vibration patterns became intuitive. The GPS accuracy improved. The enclosures got stronger. By August, we had two working modules that could genuinely guide someone across campus.
 
 ## The Result
+
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ix-final.png" title="Final Working Prototype" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The final working prototype: both shoe modules fully assembled, wired, and ready for campus navigation trials.
+</div>
 
 We presented iKshana at the ITSP finale in front of faculty, industry judges, and hundreds of fellow students. Walking them through a blindfolded demo—watching their faces as they realized the vibrations actually worked—was unforgettable.
 
