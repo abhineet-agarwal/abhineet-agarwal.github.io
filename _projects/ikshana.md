@@ -109,15 +109,12 @@ But slowly, it came together. The vibration patterns became intuitive. The GPS a
 We presented iKshana at the ITSP finale in front of faculty, industry judges, and hundreds of fellow students. Walking them through a blindfolded demo—watching their faces as they realized the vibrations actually worked—was unforgettable.
 
 <div class="row justify-content-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ikshana_presenting_demo.jpg" title="Demonstrating the Project" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ikshana_exhibition_crowd.jpg" title="Crowd at Exhibition" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Explaining the project to visitors at our booth. Right: The crowd gathering to see the blindfolded demo in action.
+    Explaining the project to visitors at our booth.
 </div>
 
 <div class="row justify-content-center">
