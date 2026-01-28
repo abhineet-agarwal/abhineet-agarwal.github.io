@@ -2,7 +2,7 @@
 layout: page
 title: 16-bit Pipelined IITB-RISC Processor
 description: A fully functional 6-stage pipelined RISC CPU with hazard detection, data forwarding, and branch prediction implemented in VHDL
-img: risc-netlist-part.png
+img: assets/img/risc-netlist-part.png
 importance: 4
 category: Academic Projects
 ---
