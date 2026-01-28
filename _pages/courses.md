@@ -149,7 +149,8 @@ Project: [Microrobotics for Medical Applications](/projects/quantum_nose.md/)
 5. *EE214: Digital Circuits Lab*<br>
    <!-- Instructor:  -->
 
-6. *EE224: Digital Systems*<br> [Project](https://github.com/abhineet-agarwal/EE224_project)
+6. *EE224: Digital Systems*<br> 
+Github: [Project](https://github.com/abhineet-agarwal/EE224_project)
 
 7. *EE229: Signal Processing – I*<br>
 
