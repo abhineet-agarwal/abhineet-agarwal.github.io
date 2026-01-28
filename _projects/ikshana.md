@@ -50,15 +50,12 @@ iKshana—Sanskrit for "vision"—became a foot-worn harness with two complement
 The hardware consisted of an ESP-32 microcontroller on each foot, communicating with the Android app via WiFi. Each module had two ultrasonic sensors (HC-SR04) pointing forward and to the side, plus coin vibration motors for haptic feedback. Everything was powered by compact Li-Po batteries and housed in custom 3D-printed enclosures.
 
 <div class="row justify-content-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ikshana_device_closeup.jpg" title="Device Close-up" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ikshana_device_shoe.jpg" title="Device on Shoe" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Close-up views of the working prototype showing the ultrasonic sensors, wiring, power switch, and elastic strap attachment system.
+    Close-up view of the first working prototype showing the ultrasonic sensors, wiring, power switch, and elastic strap attachment system.
 </div>
 
 ## The Software
