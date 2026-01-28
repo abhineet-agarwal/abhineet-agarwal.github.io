@@ -7,7 +7,7 @@ importance: 2
 category: R&D
 ---
 
-**Guide:** Prof. Swaroop Ganguly | **Collaborators:** TCS Research
+**Guide:** Prof. Swaroop Ganguly 
 
 **Duration:** May 2024 - Present
 

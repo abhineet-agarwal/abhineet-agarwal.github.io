@@ -7,7 +7,7 @@ importance: 5
 category: Academic Projects
 ---
 
-**Course:** EE324 - Control Systems Lab | **Instructor:** Prof. Debraj Chakraborty
+**Course:** EE324 - Control Systems Lab
 
 **Duration:** Nov 2024
 

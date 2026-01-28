@@ -7,7 +7,7 @@ importance: 10
 category: Academic Projects
 ---
 
-**Course:** EE230 - Analog Lab | **Instructor:** Prof. Anil Kottantharayil
+**Course:** EE230 - Analog Lab
 
 **Duration:** Apr 2024
 

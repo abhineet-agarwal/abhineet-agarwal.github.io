@@ -7,8 +7,13 @@ importance: 4
 category: Academic Projects
 ---
 
-**Course:** EE309 - Microprocessors | **Instructor:** Prof. Virendra Singh
-**Duration:** Apr - May 2024 | **Team:** Anshu Arora, Sachi Deshmukh, Abhineet Agarwal, Garima Goplani
+**Course:** EE309 - Microprocessors 
+
+**Instructor:** Prof. Virendra Singh
+
+**Duration:** Apr - May 2024 
+
+**Team:** Anshu Arora, Sachi Deshmukh, Abhineet Agarwal, Garima Goplani
 
 ## Overview
 

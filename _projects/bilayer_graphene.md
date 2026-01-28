@@ -7,7 +7,9 @@ importance: 6
 category: Reading/Other
 ---
 
-**Course:** PH436 - Theoretical Condensed Matter Physics | **Instructor:** Prof. Hridis Kumar Pal
+**Course:** PH436 - Condensed Matter Physics
+
+**Instructor:** Prof. Hridis Kumar Pal
 
 **Duration:** Nov 2024
 

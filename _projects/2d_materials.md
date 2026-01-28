@@ -7,7 +7,8 @@ importance: 2
 category: Academic Projects
 ---
 
-**Course:** EE784 - 2D Materials and Electronics | **Instructor:** Prof. Saurabh Lodha
+**Course:** EE784 - 2D Materials and Electronics
+**Instructor:** Prof. Saurabh Lodha
 
 **Duration:** Mar - Apr 2025
 

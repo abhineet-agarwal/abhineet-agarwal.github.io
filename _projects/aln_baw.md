@@ -7,7 +7,7 @@ importance: 4
 category: R&D
 ---
 
-**Guide:** Prof. Apurba Laha | **Collaborators:** ISRO
+**Guide:** Prof. Apurba Laha 
 
 **Duration:** Sep 2024 - Feb 2025
 

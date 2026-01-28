@@ -7,9 +7,9 @@ importance: 6
 category: R&D
 ---
 
-**Institute Technical Summer Project** | IIT Bombay
+**Institute Technical Summer Project**, IIT Bombay
 
-**Role:** Team Lead | **Duration:** May - Aug 2023
+**Role:** Team Lead  **Duration:** May - Aug 2023
 
 **Achievement:** 2nd Place among 100+ teams
 

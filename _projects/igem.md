@@ -7,7 +7,9 @@ importance: 5
 category: Reading/Other
 ---
 
-**Advisor:** Prof. Kiran Kodanbagil | **Role:** Founding Member
+**Advisor:** Prof. Kiran Kodanbagil
+
+**Role:** Founding Member
 
 **Duration:** Feb - May 2024
 

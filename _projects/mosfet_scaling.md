@@ -7,7 +7,9 @@ importance: 3
 category: Academic Projects
 ---
 
-**Course:** EE620 - Physics of Transistors | **Instructor:** Prof. Souvik Mohapatra
+**Course:** EE620 - Physics of Transistors
+
+**Instructor:** Prof. Souvik Mohapatra
 
 **Duration:** Mar - Apr 2025
 

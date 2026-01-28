@@ -7,7 +7,9 @@ importance: 5
 category: R&D
 ---
 
-**Organization:** Dognosis India Pvt Ltd | **Role:** Summer Intern
+**Organization:** Dognosis India Pvt Ltd 
+
+**Role:** Summer Intern
 
 **Duration:** May - Jul 2025
 

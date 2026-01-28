@@ -7,7 +7,7 @@ importance: 7
 category: Reading/Other
 ---
 
-**Type:** Reading Project | **Self-Endeavour**
+**Type:** Reading Project 
 
 **Duration:** Jun - Jul 2024
 

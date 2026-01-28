@@ -7,7 +7,7 @@ importance: 8
 category: Reading/Other
 ---
 
-**Guide:** Prof. Ashwin Seshia | **MEMS Group**
+**Guide:** Prof. Ashwin Seshia 
 
 **Duration:** Jan - Apr 2025
 

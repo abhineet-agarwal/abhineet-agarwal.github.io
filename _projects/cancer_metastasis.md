@@ -7,7 +7,9 @@ importance: 9
 category: Reading/Other
 ---
 
-**Course:** BB626 - Mathematical Modelling of Biological Systems | **Instructor:** Prof. Deepak Agarwal
+**Course:** BB626 - Mathematical Modelling of Biological Systems 
+
+**Instructor:** Prof. Deepak Agarwal
 
 **Duration:** Apr 2024
 

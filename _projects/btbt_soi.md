@@ -9,7 +9,9 @@ category: Academic Projects
 
 **Course:** EE724 - Nanoelectronics | **Instructor:** Prof. Udayan Ganguly
 
-**Duration:** Feb - Apr 2024 | **Team:** Harsh Pujare, Abhineet Agarwal
+**Duration:** Feb - Apr 2024 
+
+**Team:** Harsh Pujare, Abhineet Agarwal
 
 **Award:** Best Project Award
 
