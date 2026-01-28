@@ -233,6 +233,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - al-folio-main/
 keep_files:
   - CNAME
   - .nojekyll
