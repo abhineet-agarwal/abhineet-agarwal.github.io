@@ -13,3 +13,5 @@ category: Academic Projects
 
 - Designed an analog active noise cancellation system achieving 19 dB attenuation at 100 Hz for low-frequency noise
 - Developed a second-order lag compensator improving from -10° to 38° phase margin and 5.8 dB gain margin
+
+**Repository:** [github.com/abhineet-agarwal/Controls-Lab](https://github.com/abhineet-agarwal/Controls-Lab)

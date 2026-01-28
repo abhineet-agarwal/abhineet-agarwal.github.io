@@ -13,3 +13,5 @@ category: Reading/Other
 
 - Studied various mathematical frameworks proposed to model the spread of cancer through metastasis
 - Focused on a framework accounting for spatiotemporal evolution of both mesenchymal and epithelial-like cancer cells, their biomarkers, and their interactions with the extracellular matrix
+
+**Repository:** [github.com/abhineet-agarwal/BB626-chaos](https://github.com/abhineet-agarwal/BB626-chaos)

@@ -21,3 +21,5 @@ We took the Goertzel algorithm — which computes a single DFT frequency bin usi
 <object data="{{ '/assets/pdf/EE671_goertzel_report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px">
   <p>PDF cannot be displayed. <a href="{{ '/assets/pdf/EE671_goertzel_report.pdf' | relative_url }}">Download PDF</a></p>
 </object>
+
+**Repository:** [github.com/abhineet-agarwal/EE671-Goertzel-ASIC](https://github.com/abhineet-agarwal/EE671-Goertzel-ASIC)

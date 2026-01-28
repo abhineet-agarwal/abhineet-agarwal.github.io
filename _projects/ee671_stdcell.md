@@ -14,3 +14,5 @@ Our team designed three standard cells — a buffer (BUF), a positive-edge trigg
 <object data="{{ '/assets/pdf/EE671_stdcell_report.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px">
   <p>PDF cannot be displayed. <a href="{{ '/assets/pdf/EE671_stdcell_report.pdf' | relative_url }}">Download PDF</a></p>
 </object>
+
+**Repository:** [github.com/abhineet-agarwal/EE671-Standard-Cell-Library](https://github.com/abhineet-agarwal/EE671-Standard-Cell-Library)

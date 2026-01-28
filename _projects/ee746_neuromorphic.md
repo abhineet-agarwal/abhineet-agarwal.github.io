@@ -21,3 +21,5 @@ Project 2: Using the SpikeSim framework, I evaluated how spiking networks perfor
 <object data="{{ '/assets/pdf/EE746_project2.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px">
   <p>PDF cannot be displayed. <a href="{{ '/assets/pdf/EE746_project2.pdf' | relative_url }}">Download PDF</a></p>
 </object>
+
+**Repository:** [github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering](https://github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering)

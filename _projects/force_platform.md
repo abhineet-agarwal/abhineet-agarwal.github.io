@@ -16,3 +16,5 @@ category: Academic Projects
 - Designed an input device using capacitive pads and load cells for patients with neurodegenerative diseases
 - Devised and implemented an original algorithm to resolve force and location of up to three touches accurately
 - Designed the analog and digital PCBs and interfaced them with the sensors and STM32F MCUs using I2C
+
+**Repository:** [github.com/abhineet-agarwal/EE344-Force-Sensing-Multitouch-Pad](https://github.com/abhineet-agarwal/EE344-Force-Sensing-Multitouch-Pad)

@@ -16,3 +16,5 @@ category: Academic Projects
 - Investigated band-to-band tunneling current optimization in 32nm PDSOI and 22nm FDSOI MOSFETs
 - Achieved optimal BTBT performance at Lₒᵥ = 1.4 nm and Nᴄʜ = 1 × 10¹⁷ cm⁻³ for FD-SOI inverters
 - Analyzed temperature effects and gate scaling using Synopsys Sentaurus TCAD
+
+**Repository:** [github.com/abhineet-agarwal/EE724---Nanoelectronics](https://github.com/abhineet-agarwal/EE724---Nanoelectronics)
