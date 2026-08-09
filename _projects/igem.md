@@ -15,3 +15,5 @@ category: Reading/Other
 
 - Selected carbon fixation using E. huxleyi as the project focus; modeled its growth rate in varying conditions
 - Focusing on Flux Balance Analysis (FBA), developed a comprehensive Python codebase using cobraPy library
+
+Current Team site: [igem-iitb.in](https://www.igem-iitb.in)
