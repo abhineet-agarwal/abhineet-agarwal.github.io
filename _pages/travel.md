@@ -23,7 +23,7 @@ nav_order: 8
     </div>
 
     <div class="travel-map-wrap">
-      <svg id="travel-map-svg" data-base-url="{{ site.baseurl }}"></svg>
+      <svg id="travel-map-svg" viewBox="0 0 960 520" data-base-url="{{ site.baseurl }}"></svg>
       <div class="travel-tooltip" id="travel-tooltip"></div>
     </div>
 
