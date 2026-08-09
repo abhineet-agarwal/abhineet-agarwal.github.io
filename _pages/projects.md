@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [R&D, Academic Projects, Freelance, Reading/Other]
+display_categories: [R&D, Freelance Software, Academic Projects, Reading/Other]
 horizontal: true
 social: true
 ---
