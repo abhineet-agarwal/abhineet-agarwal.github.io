@@ -5,6 +5,7 @@ description: Analog active noise cancellation with lag compensator design
 img:
 importance: 5
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/Controls-Lab
 ---
 
 **Course:** EE324 - Control Systems Lab

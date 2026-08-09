@@ -5,6 +5,7 @@ description: High-precision tantalum masks for satellite imaging applications
 img: assets/img/me6110_collage.png
 importance: 1
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/ME6110-XRL-Mask-Fabrication
 ---
 
 **Course:** ME6110 - Nanomanufacturing Processes (Autumn 2025)<br>

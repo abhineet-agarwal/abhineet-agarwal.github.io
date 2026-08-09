@@ -5,6 +5,7 @@ description: Exploring how the brain computes — biologically plausible learnin
 img: assets/img/ee746_collage.png
 importance: 2
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/EE746-Neuromorphic-Engineering
 ---
 
 **Course:** EE746: Neuromorphic Engineering (Autumn 2025)<br>

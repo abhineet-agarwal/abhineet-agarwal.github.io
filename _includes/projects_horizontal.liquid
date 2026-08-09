@@ -25,6 +25,13 @@
                   {% endif %}
                 </div>
               {% endif %}
+              {% if project.website %}
+                <div class="github-icon">
+                  <div class="icon" data-toggle="tooltip" title="Website">
+                    <a href="{{ project.website }}"><i class="fa-solid fa-globe gh-icon"></i></a>
+                  </div>
+                </div>
+              {% endif %}
             </div>
           </div>
         </div>

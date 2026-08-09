@@ -5,6 +5,7 @@ description: A complete navigational solution for the visually impaired
 img: assets/img/ix-final.png
 importance: 6
 category: R&D
+github: https://github.com/abhineet-agarwal/ikshana
 ---
 
 **Institute Technical Summer Project**, IIT Bombay

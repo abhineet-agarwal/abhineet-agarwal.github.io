@@ -4,6 +4,7 @@ title: Standard Cell Library
 description: Designing and characterizing standard cells from scratch using the SkyWater 130nm open-source PDK
 importance: 2
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/EE671-Standard-Cell-Library
 ---
 
 **Course:** EE671: VLSI Design (Autumn 2025)<br>

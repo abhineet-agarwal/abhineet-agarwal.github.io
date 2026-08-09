@@ -5,6 +5,7 @@ description: Full RTL-to-GDSII implementation of the Goertzel algorithm on TSMC 
 img: assets/img/asic.png
 importance: 2
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/EE671-Goertzel-ASIC
 ---
 
 **Course:** EE671: VLSI Design (Autumn 2025)<br>

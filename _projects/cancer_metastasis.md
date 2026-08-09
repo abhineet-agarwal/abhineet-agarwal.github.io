@@ -5,6 +5,7 @@ description: Spatiotemporal evolution models of cancer cell migration
 img:
 importance: 9
 category: Reading/Other
+github: https://github.com/abhineet-agarwal/BB626-chaos
 ---
 
 **Course:** BB626 - Mathematical Modelling of Biological Systems 

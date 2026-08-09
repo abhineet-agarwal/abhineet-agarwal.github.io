@@ -5,6 +5,7 @@ description: A fully functional 6-stage pipelined RISC CPU with hazard detection
 img: assets/img/risc-netlist-part.png
 importance: 4
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/IITB-RISC-22
 ---
 
 **Course:** EE309 - Microprocessors 

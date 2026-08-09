@@ -5,6 +5,7 @@ description: Input device for patients with neurodegenerative diseases
 img:
 importance: 4
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/EE344-Force-Sensing-Multitouch-Pad
 ---
 
 **Course:** EE344 - Electronic Design Lab | **Instructor:** Prof. Siddharth Tallur

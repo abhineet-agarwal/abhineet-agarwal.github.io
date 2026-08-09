@@ -5,6 +5,7 @@ description: Multi-stage bioinstrumentation amplifier with noise filtering
 img:
 importance: 10
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/EE230---Analog-Lab
 ---
 
 **Course:** EE230 - Analog Lab

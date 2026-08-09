@@ -5,6 +5,7 @@ description: Band-to-band tunneling optimization in advanced SOI nodes for neuro
 img: assets/img/btbt_pdsoi_schematic.png
 importance: 5
 category: Academic Projects
+github: https://github.com/abhineet-agarwal/EE724---Nanoelectronics
 ---
 
 **Course:** EE724 - Nanoelectronics | **Instructor:** Prof. Udayan Ganguly
