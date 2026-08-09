@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Austria",
+    "slug": "austria",
+    "type": "country",
+    "map_name": "Austria"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "slug": "bosnia-and-herzegovina",
+    "type": "country",
+    "map_name": "Bosnia and Herz."
+  },
+  {
+    "name": "Cambodia",
+    "slug": "cambodia",
+    "type": "country",
+    "map_name": "Cambodia"
+  },
+  {
+    "name": "China",
+    "slug": "china",
+    "type": "country",
+    "map_name": "China"
+  },
+  {
+    "name": "Croatia",
+    "slug": "croatia",
+    "type": "country",
+    "map_name": "Croatia"
+  },
+  {
+    "name": "Czech Republic",
+    "slug": "czech-republic",
+    "type": "country",
+    "map_name": "Czechia"
+  },
+  {
+    "name": "Denmark",
+    "slug": "denmark",
+    "type": "country",
+    "map_name": "Denmark"
+  },
+  {
+    "name": "Finland",
+    "slug": "finland",
+    "type": "country",
+    "map_name": "Finland"
+  },
+  {
+    "name": "France",
+    "slug": "france",
+    "type": "country",
+    "map_name": "France"
+  },
+  {
+    "name": "Germany",
+    "slug": "germany",
+    "type": "country",
+    "map_name": "Germany"
+  },
+  {
+    "name": "Hungary",
+    "slug": "hungary",
+    "type": "country",
+    "map_name": "Hungary"
+  },
+  {
+    "name": "Italy",
+    "slug": "italy",
+    "type": "country",
+    "map_name": "Italy"
+  },
+  {
+    "name": "Liechtenstein",
+    "slug": "liechtenstein",
+    "type": "country",
+    "map_name": "Liechtenstein"
+  },
+  {
+    "name": "Luxembourg",
+    "slug": "luxembourg",
+    "type": "country",
+    "map_name": "Luxembourg"
+  },
+  {
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "type": "country",
+    "map_name": "Malaysia"
+  },
+  {
+    "name": "Malta",
+    "slug": "malta",
+    "type": "country",
+    "map_name": "Malta"
+  },
+  {
+    "name": "Monaco",
+    "slug": "monaco",
+    "type": "country",
+    "map_name": "Monaco"
+  },
+  {
+    "name": "Norway",
+    "slug": "norway",
+    "type": "country",
+    "map_name": "Norway"
+  },
+  {
+    "name": "San Marino",
+    "slug": "san-marino",
+    "type": "country",
+    "map_name": "San Marino"
+  },
+  {
+    "name": "Singapore",
+    "slug": "singapore",
+    "type": "country",
+    "map_name": "Singapore"
+  },
+  {
+    "name": "Slovakia",
+    "slug": "slovakia",
+    "type": "country",
+    "map_name": "Slovakia"
+  },
+  {
+    "name": "Slovenia",
+    "slug": "slovenia",
+    "type": "country",
+    "map_name": "Slovenia"
+  },
+  {
+    "name": "Spain",
+    "slug": "spain",
+    "type": "country",
+    "map_name": "Spain"
+  },
+  {
+    "name": "Sweden",
+    "slug": "sweden",
+    "type": "country",
+    "map_name": "Sweden"
+  },
+  {
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "type": "country",
+    "map_name": "Switzerland"
+  },
+  {
+    "name": "Thailand",
+    "slug": "thailand",
+    "type": "country",
+    "map_name": "Thailand"
+  },
+  {
+    "name": "UAE",
+    "slug": "uae",
+    "type": "country",
+    "map_name": "United Arab Emirates"
+  },
+  {
+    "name": "Vatican City",
+    "slug": "vatican-city",
+    "type": "country",
+    "map_name": "Vatican"
+  },
+  {
+    "name": "Andhra Pradesh",
+    "slug": "andhra-pradesh",
+    "type": "state",
+    "map_name": "Andhra Pradesh"
+  },
+  {
+    "name": "Bihar",
+    "slug": "bihar",
+    "type": "state",
+    "map_name": "Bihar"
+  },
+  {
+    "name": "Chandigarh",
+    "slug": "chandigarh",
+    "type": "state",
+    "map_name": "Chandigarh"
+  },
+  {
+    "name": "Chhattisgarh",
+    "slug": "chhattisgarh",
+    "type": "state",
+    "map_name": "Chhattisgarh"
+  },
+  {
+    "name": "Delhi",
+    "slug": "delhi",
+    "type": "state",
+    "map_name": "Delhi"
+  },
+  {
+    "name": "Goa",
+    "slug": "goa",
+    "type": "state",
+    "map_name": "Goa"
+  },
+  {
+    "name": "Haryana",
+    "slug": "haryana",
+    "type": "state",
+    "map_name": "Haryana"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "slug": "himachal-pradesh",
+    "type": "state",
+    "map_name": "Himachal Pradesh"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "slug": "jammu-and-kashmir",
+    "type": "state",
+    "map_name": "Jammu and Kashmir"
+  },
+  {
+    "name": "Jharkhand",
+    "slug": "jharkhand",
+    "type": "state",
+    "map_name": "Jharkhand"
+  },
+  {
+    "name": "Karnataka",
+    "slug": "karnataka",
+    "type": "state",
+    "map_name": "Karnataka"
+  },
+  {
+    "name": "Kerala",
+    "slug": "kerala",
+    "type": "state",
+    "map_name": "Kerala"
+  },
+  {
+    "name": "Maharashtra",
+    "slug": "maharashtra",
+    "type": "state",
+    "map_name": "Maharashtra"
+  },
+  {
+    "name": "Odisha",
+    "slug": "odisha",
+    "type": "state",
+    "map_name": "Odisha"
+  },
+  {
+    "name": "Puducherry",
+    "slug": "puducherry",
+    "type": "state",
+    "map_name": "Puducherry"
+  },
+  {
+    "name": "Rajasthan",
+    "slug": "rajasthan",
+    "type": "state",
+    "map_name": "Rajasthan"
+  },
+  {
+    "name": "Sikkim",
+    "slug": "sikkim",
+    "type": "state",
+    "map_name": "Sikkim"
+  },
+  {
+    "name": "Tamil Nadu",
+    "slug": "tamil-nadu",
+    "type": "state",
+    "map_name": "Tamil Nadu"
+  },
+  {
+    "name": "Uttar Pradesh",
+    "slug": "uttar-pradesh",
+    "type": "state",
+    "map_name": "Uttar Pradesh"
+  },
+  {
+    "name": "Uttarakhand",
+    "slug": "uttarakhand",
+    "type": "state",
+    "map_name": "Uttarakhand"
+  },
+  {
+    "name": "West Bengal",
+    "slug": "west-bengal",
+    "type": "state",
+    "map_name": "West Bengal"
+  }
+]

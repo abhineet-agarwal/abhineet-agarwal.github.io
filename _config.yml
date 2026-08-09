@@ -183,6 +183,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  travel:
+    output: true
+    permalink: /travel/:path/
 
 announcements:
   enabled: true

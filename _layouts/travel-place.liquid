@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <p class="post-description" style="margin-bottom: 0;">
+      <a href="{{ '/travel/' | relative_url }}">&larr; back to the travel map</a>
+    </p>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <article>
+    {{ content }}
+
+    {% assign spots = site.data.travel_places | where: "region_slug", page.region_slug %}
+    {% if spots.size > 0 %}
+      <h2>Places visited</h2>
+      <ul>
+        {% for spot in spots %}
+          <li>{{ spot.name }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </article>
+</div>

@@ -1,0 +1,162 @@
+/*******************************************************************************
+ * Travel map
+ ******************************************************************************/
+
+:root {
+  --travel-bg: #{$white-color};
+  --travel-border: #{$black-color};
+  --travel-visited-fill: var(--global-theme-color);
+  --travel-dot: var(--global-theme-color);
+  --travel-dot-stroke: #{$white-color};
+}
+
+html[data-theme="dark"] {
+  --travel-bg: #{$black-color};
+  --travel-border: #{$white-color};
+  --travel-visited-fill: var(--global-theme-color);
+  --travel-dot: var(--global-theme-color);
+  --travel-dot-stroke: #{$black-color};
+}
+
+.travel-map-wrap {
+  position: relative;
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--global-divider-color);
+}
+
+.travel-map-wrap svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  cursor: grab;
+}
+
+.travel-map-wrap svg:active {
+  cursor: grabbing;
+}
+
+.travel-map-bg {
+  fill: var(--travel-bg);
+}
+
+.travel-country,
+.travel-state {
+  fill: transparent;
+  stroke: var(--travel-border);
+  stroke-width: 0.5px;
+  vector-effect: non-scaling-stroke;
+  transition: fill 0.15s ease;
+}
+
+.travel-country.visited,
+.travel-state.visited {
+  fill: var(--travel-visited-fill);
+  cursor: pointer;
+}
+
+.travel-country.visited:hover,
+.travel-state.visited:hover {
+  filter: brightness(1.3);
+}
+
+.travel-dot {
+  fill: var(--travel-dot);
+  stroke: var(--travel-dot-stroke);
+  stroke-width: 0.6px;
+  vector-effect: non-scaling-stroke;
+  cursor: pointer;
+}
+
+.travel-dot:hover {
+  filter: brightness(1.3);
+}
+
+.travel-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--travel-bg);
+  color: var(--travel-border);
+  border: 1px solid var(--travel-border);
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.1s ease;
+  z-index: 10;
+}
+
+.travel-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.travel-legend {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  flex-wrap: wrap;
+}
+
+.travel-legend-swatch {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  background: var(--travel-visited-fill);
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.travel-legend-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--travel-dot);
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.travel-reset-btn {
+  background: none;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  color: var(--global-text-color);
+  padding: 0.2rem 0.6rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.travel-reset-btn:hover {
+  border-color: var(--global-theme-color);
+  color: var(--global-theme-color);
+}
+
+.travel-region-toggle {
+  display: flex;
+  gap: 0.3rem;
+}
+
+.travel-region-toggle button {
+  background: none;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  color: var(--global-text-color);
+  padding: 0.2rem 0.6rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.travel-region-toggle button.active {
+  background: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+  color: var(--global-hover-text-color);
+}
