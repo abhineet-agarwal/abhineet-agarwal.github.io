@@ -276,6 +276,12 @@
     "map_name": "Tamil Nadu"
   },
   {
+    "name": "Telangana",
+    "slug": "telangana",
+    "type": "state",
+    "map_name": "Telangana"
+  },
+  {
     "name": "Uttar Pradesh",
     "slug": "uttar-pradesh",
     "type": "state",

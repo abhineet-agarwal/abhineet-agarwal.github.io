@@ -1502,5 +1502,13 @@
     "region_type": "country",
     "lat": 29.4316,
     "lng": 106.9123
+  },
+  {
+    "name": "Hyderabad",
+    "region": "Telangana",
+    "region_slug": "telangana",
+    "region_type": "state",
+    "lat": 17.385,
+    "lng": 78.4867
   }
 ]
