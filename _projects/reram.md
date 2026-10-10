@@ -9,7 +9,7 @@ category: R&D
 
 **Guide:** Prof. Veeresh Deshpande
 
-**Duration:** Aug 2025 - Present
+**Duration:** Aug - Dec 2025
 
 - Undergoing cleanroom training in photolithography, thin-film deposition (sputtering/ALD), annealing etc.
 - Fabricating a W/WOₓ/HfO₂/Pt stack, performing DC and pulse programming over 100+ cycles to study SET/RESET behavior, endurance and retention

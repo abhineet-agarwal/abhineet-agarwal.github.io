@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HackerFab IITB
-description: Co-founding India's first student-led chip fabrication facility
+description: Founding India's first student-led chip fabrication facility
 img:
 importance: 1
 category: R&D

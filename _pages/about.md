@@ -17,9 +17,11 @@ social: true # includes social icons at the bottom of the page
 
 I am a fourth year undergraduate at the Indian Institute of Technology Bombay, studying electrical engineering, with a bit of condensed matter physics and materials science on the side. My primary interests are in nanofabrication (['there's plenty of room at the bottom'](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom)) and manufacturing, but I am pretty enthusiastic about anything which involves building. 
 
-I am currently spending a semester abroad at EPFL where I am  working on fabricating and packaging high-density electrode arrays using off-the-shelf CMOS chips on flexible substrates. This work is at [Prof. Stephanie Lacour's](https://www.epfl.ch/labs/lsbi/) lab at Campus Biotech, Geneva. 
+I am currently working on combining cutting-edge packaging techniques with flexible electronic platforms to make flexible substrates with densely packed embedded chips for readout. This work is at the [DESH Group](https://www.linkedin.com/company/devices-and-system-heterointegration-group-iitbombay/) at IIT Bombay and IITBNF as my Master's thesis where I am working Matangi Sricharan under Prof. Veeresh Deshpande's guidance. The work is in collaboration with Prof. Prosenjit Sen's group at IISc and Prof. Subramaniam Iyer's group at UCLA. 
 
-You can find some of the stuff I have worked on [here](https://abhineet-agarwal.github.io/projects/). 
+Besides, 
+
+You can find some of the stuff I have worked on previously [here](https://abhineet-agarwal.github.io/projects/). 
 
 
 Have always found it difficult to be put in a box. Non-exhaustive list of things I am currently into:
