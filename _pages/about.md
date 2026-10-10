@@ -15,11 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected=(true)"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fourth year undergraduate at the Indian Institute of Technology Bombay, studying electrical engineering, with a bit of condensed matter physics and materials science on the side. My primary interests are in nanofabrication (['there's plenty of room at the bottom'](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom)) and manufacturing, but I am pretty enthusiastic about anything which involves building. 
+I am a final year undergraduate at the Indian Institute of Technology Bombay, studying electrical engineering, with a bit of condensed matter physics and materials science on the side. My primary interests are in nanofabrication (['there's plenty of room at the bottom'](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom)) and manufacturing, but I am pretty enthusiastic about anything which involves building. 
 
 I am currently working on combining cutting-edge packaging techniques with flexible electronic platforms to make flexible substrates with densely packed embedded chips for readout. This work is at the [DESH Group](https://www.linkedin.com/company/devices-and-system-heterointegration-group-iitbombay/) at IIT Bombay and IITBNF as my Master's thesis where I am working Matangi Sricharan under Prof. Veeresh Deshpande's guidance. The work is in collaboration with Prof. Prosenjit Sen's group at IISc and Prof. Subramaniam Iyer's group at UCLA. 
 
-Besides, 
+Besides, I am building [HackerFab IITB](https://abhineet-agarwal.github.io/projects/hackerfab/) — India's first student-led chip fab, where we design and build our own tools from scratch. Swarajya recently wrote about it: [Inside HackerFab IITB, India's First Student-Led Chip Fab](https://swarajyamag.com/technology/inside-hackerfab-iitb-indias-first-student-led-chip-fab).
+
+I also maintain [OpenTCAD](https://abhineet-agarwal.github.io/projects/opentcad/), an open-source Python framework for semiconductor process and device simulation — an attempt at a scriptable alternative to closed commercial TCAD. It is early and I would welcome contributors, particularly on material parameter files, physics models and worked examples. The code is on [GitHub](https://github.com/abhineet-agarwal/opentcad); do reach out if any of it sounds interesting.
 
 You can find some of the stuff I have worked on previously [here](https://abhineet-agarwal.github.io/projects/). 
 

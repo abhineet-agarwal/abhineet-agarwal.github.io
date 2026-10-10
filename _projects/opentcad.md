@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenTCAD
-description: An open-source Python framework for semiconductor process and device simulation
+description: An open-source Python framework for semiconductor process and device simulation — contributors welcome
 img: assets/img/opentcad_nmos_idvg.png
 importance: 1
 category: Freelance Software
@@ -50,6 +50,22 @@ Phase 0 is complete and validated against analytics rather than vibes — a 1-D 
 
 The roadmap runs through ViennaPS-backed topography (etch, deposition, Deal-Grove oxidation with a moving boundary), Pearson IV implant and FiPy diffusion, and quantitative calibration against the SKY130 and IHP SG13G2 open PDKs, with a NEGF backend as a longer-term extension.
 
-Apache 2.0 licensed.
+## Contributing
+
+OpenTCAD is Apache 2.0 licensed and openly developed, and it is at the stage where contributions
+compound. The most useful things to add, roughly in order:
+
+- **Material parameter files.** Each material is a single YAML file with literature citations —
+  bandgap, effective densities of states, mobility, SRH lifetimes. Si and SiO₂ exist; Si₃N₄,
+  poly-Si, SiGe and the III-Vs do not. Adding one needs no knowledge of the solver internals.
+- **Physics models.** Mobility, recombination, bandgap-narrowing and statistics models are
+  pluggable — one new file under `opentcad/device/models/` subclassing the relevant base.
+- **Worked examples and notebooks**, which double as documentation and as regression tests.
+- **The process side.** Phases 1–2 (ViennaPS topography, Pearson IV implant, FiPy diffusion, and
+  the process-to-device mesh translator) are open, and the mesh translator in particular is the
+  piece that does not exist anywhere in open source.
+
+If any of that is near your work, please open an issue — I would rather talk through a change
+before you write it than have you discover the architecture the hard way.
 
 **Repository:** [github.com/abhineet-agarwal/opentcad](https://github.com/abhineet-agarwal/opentcad)
