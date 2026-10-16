@@ -34,7 +34,7 @@ Have always found it difficult to be put in a box. Non-exhaustive list of things
 - The future of personal devices
 - Developmental Economics
 
-Besides work, I love music - trained as a vocalist, trying out new sports (currently - rowing!) and backpacking. I also avidly follow and read about politics, history and the technology landscape here in India and the world. You can find my reading list [here](https://www.goodreads.com/user/show/52986688-abhineet-agarwal), and some of my writing [here](https://abhineet-agarwal.github.io/blog/).
+Besides work, I love music - trained as a vocalist, trying out new sports and backpacking. I also avidly follow and read about politics, history and the technology landscape here in India and the world. You can find my reading list [here](https://www.goodreads.com/user/show/52986688-abhineet-agarwal), and some of my writing [here](https://abhineet-agarwal.github.io/blog/).
 
 <div style="text-align: right; margin-top: 2rem;">
 <a href="https://info.flagcounter.com/bN1M"><img src="https://s05.flagcounter.com/count2/bN1M/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
