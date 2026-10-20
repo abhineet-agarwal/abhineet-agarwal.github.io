@@ -9,6 +9,9 @@ nav_order: 6
 
 ## Teaching Assistantships
 
+**EE669: VLSI Technology** (Jul-Nov'26)<br>
+Instructor: Prof. Anil Kottantharayil &emsp; <!-- [Course Website]() --> <!-- [Materials]() -->
+
 **28nm CMOS Device & Process Tech Course** (SemiX IIT Bombay, Oct-Nov'25)<br>
 Instructor: Prof. Udayan Ganguly &emsp; <!-- [Course Website]() --> <!-- [Materials]() -->
 
